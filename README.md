@@ -2,7 +2,7 @@ ZendSkeletonApplication
 =======================
 
 [![Build Status](https://status.continuousphp.com/git-hub/continuousdemo/zf2-skeleton?token=17f238d8-aa69-4ccd-881c-b26ddbda560b)](https://continuousphp.com/git-hub/continuousdemo/zf2-skeleton)
-
+lala
 Introduction
 ------------
 This is a simple, skeleton application using the ZF2 MVC layer and module
